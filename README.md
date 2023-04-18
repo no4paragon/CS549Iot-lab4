@@ -14,6 +14,11 @@ You can either use the onboard LED or hook one up on the breadboard.
 
 Develop two commands: one to switch LED on, and another to switch LED off.
 
+<h2>[lab4 part A video](https://youtu.be/dQdGrQpl1_M)</h2>
+
+<img src="https://github.com/no4paragon/CS549Iot-lab4/blob/main/partA1.jpg" width="60%" height="60%">
+<img src="https://github.com/no4paragon/CS549Iot-lab4/blob/main/partA2.jpg" width="60%" height="60%">
+
 ## Part B- Develop a very simple Bluetooth step counter
 
 Using the LSM6DS3 sensor and ESP32 based TTGO, count number of steps by mimicking the step motion and sent it by Bluetooth to cell phone. Please follow the below steps:
