@@ -16,8 +16,8 @@ Develop two commands: one to switch LED on, and another to switch LED off.
 
 <h2>[lab4 part A video](https://youtu.be/dQdGrQpl1_M)</h2>
 
-<img src="https://github.com/no4paragon/CS549Iot-lab4/blob/main/partA1.jpg" width="60%" height="60%">
-<img src="https://github.com/no4paragon/CS549Iot-lab4/blob/main/partA2.jpg" width="60%" height="60%">
+<img src="https://github.com/no4paragon/CS549Iot-lab4/blob/main/partA1.jpg" width="40%" height="40%">
+<img src="https://github.com/no4paragon/CS549Iot-lab4/blob/main/partA2.jpg" width="40%" height="40%">
 
 ## Part B- Develop a very simple Bluetooth step counter
 
@@ -28,7 +28,9 @@ Using the LSM6DS3 sensor and ESP32 based TTGO, count number of steps by mimickin
 - To count the number of steps, you need to set a threshold. Note that for each step, there might be more than one value over the threshold. Count the number of steps using this threshold. Print the number of steps in a terminal.
 - Send the number of taken steps to the cell phone using the built-in BLE.
 
-<aside>
 ⚠️ Please do not use use any *pedometer* library to make the step counter. You need to implement this on your own.
 
-</aside>
+
+<h2>[lab4 part B video](https://youtu.be/nVnQIvxz-M4)</h2>
+
+<img src="https://github.com/no4paragon/CS549Iot-lab4/blob/main/partB.jpg" width="40%" height="40%">
