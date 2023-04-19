@@ -1,6 +1,6 @@
 
-//please comment out the whole block in order to test part A and B separately.
-//Part A code Start
+//please comment out the whole block of part B in order to test part A.
+//Part A code Start ***********************************
 
 #include <Arduino.h>
 #include <SparkFunLSM6DSO.h>
@@ -83,11 +83,11 @@ void loop() {
   delay(2000); // Wait for 2 seconds before repeating the loop
 }
 
-//Part A code End
+//Part A code End***********************************
 
-
-
-//Part B code Start
+//===========================================================================================
+//please comment out the whole block of part A in order to test part B.
+//Part B code Start***********************************
 
 #include <Arduino.h>
 #include <SparkFunLSM6DSO.h>
@@ -213,6 +213,6 @@ void loop() {
   // Delay for a short amount of time to prevent the loop from running too frequently
   delay(20);
 }
-//Part B code End
+//Part B code End ***********************************
 
 
