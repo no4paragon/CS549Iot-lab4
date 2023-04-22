@@ -31,6 +31,7 @@ Using the LSM6DS3 sensor and ESP32 based TTGO, count number of steps by mimickin
 ⚠️ Please do not use use any *pedometer* library to make the step counter. You need to implement this on your own.
 
 
-<h2>[lab4 part B video](https://youtu.be/nVnQIvxz-M4)</h2>
+<h2>[lab4 part B video1](https://youtu.be/nVnQIvxz-M4)</h2>
+<h2>[lab4 part B video2](https://youtu.be/fV3TQLiQD0E)</h2>
 
 <img src="https://github.com/no4paragon/CS549Iot-lab4/blob/main/partB.jpg" width="40%" height="40%">
